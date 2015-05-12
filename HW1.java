@@ -1,10 +1,11 @@
-import java.util.Scanner;
 /*
 --Java--
 --Austin Vern Songer--
---08MAY2015--
+--8MAY2015
 --Robert Morris University--
 */
+
+import java.util.Scanner;
 
 public class AgeIn5
 {
