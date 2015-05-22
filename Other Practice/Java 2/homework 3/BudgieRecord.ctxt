@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=desig\ id\ dates\ descript\ birdshape\ colours
+comment0.target=BudgieRecord(java.lang.String,\ int,\ Date[],\ java.lang.String[],\ Shape,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BudgieRecord\r\n
+comment1.params=
+comment1.target=int\ varCount()
+comment1.text=\r\n\ returns\ how\ many\ variables\ are\ used\ in\ the\ object\r\n
+comment2.params=
+comment2.target=void\ print()
+comment3.params=x
+comment3.target=int\ compareTo(java.lang.Object)
+numComments=4

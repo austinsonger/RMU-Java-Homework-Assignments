@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=desig\ id\ dates\ descript\ birdshape\ origcountry
+comment0.target=ParrotRecord(java.lang.String,\ int,\ Date[],\ java.lang.String[],\ Shape,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ParrotRecord\r\n
+comment1.params=
+comment1.target=int\ varCount()
+comment1.text=\r\n\ returns\ how\ many\ variables\ are\ used\ in\ the\ object\r\n
+comment2.params=x
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=void\ print()
+numComments=4

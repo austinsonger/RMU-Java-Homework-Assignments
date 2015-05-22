@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=desig\ id\ dates\ descript\ birthdate
+comment0.target=DogRecord(java.lang.String,\ int,\ Date[],\ java.lang.String[],\ Date)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ DogRecord\r\n
+comment1.params=weight
+comment1.target=void\ setWeight(int)
+comment2.params=
+comment2.target=int\ getWeight()
+comment3.params=
+comment3.target=int\ varCount()
+comment3.text=\r\n\ returns\ how\ many\ variables\ are\ used\ in\ the\ object\r\n
+comment4.params=act
+comment4.target=void\ setActive(char)
+comment5.params=
+comment5.target=boolean\ getActive()
+comment6.params=
+comment6.target=void\ print()
+comment7.params=y
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8

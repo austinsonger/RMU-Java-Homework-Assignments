@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=day
+comment0.target=DaysofWeek(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getLatin()
+comment2.params=
+comment2.target=DaysofWeek\ increment()
+comment3.params=
+comment3.target=DaysofWeek\ decrement()
+comment4.params=
+comment4.target=DaysofWeek\ random()
+numComments=5

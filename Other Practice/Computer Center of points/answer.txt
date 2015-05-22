@@ -1,0 +1,85 @@
+static var x1=0
+
+Line 20:
+Creates a object aX which is a object of class type X
+Line 21:
+Creates a object aaX which is a object of class type X
+
+Line 23:
+call method method1 of object aX passing 1
+static var x1= 1
+Print :: method1:1
+
+Line 24:
+call method method1 of object aX passing 2
+static var x1= 2
+Print :: method1:2
+
+Line 26:
+call method method2 of object aX passing 3
+staic var x1 = 3
+o1 = 3
+methodX2:test+memoryaddressof the class object aX
+	x1 3
+	o1 3
+
+Line 26:
+call method method2 of object aaX passing 4
+staic var x1 = 4
+o1 = 4
+methodX2:test+memoryaddressof the class object aaX
+	x1 3
+	o1 3
+
+--------------------------------------------------------
+Line 16 : 
+create an object aX of class type X
+calling the constructor for class X
+Line 17 : 
+create an object aXX of class type XX
+calling the constructor for class X then XX ,as X is the super class
+
+Line 19
+Call the methodX1 for object aX passing 1
+Static var X1 = 1
+Print : methodX1:1
+
+Line 20
+Call the methodX1 for object aXX passing 2
+Static var X1 = 2
+Print : methodX1:2
+
+Line 22
+Call the methodX2 for object aX passing 3
+static car X1 = 3
+o1 = 3
+Print :: methodX2 : X@memory address of the object
+Print :: x1 3
+Print :: o1 3
+
+Line 23
+Call the methodX2 for object aXX passing 4(calls the overwritten method in XX)
+static var X1 = 4
+o1 = 4
+Print :: methodX2: test@memoryaddress of object instace of class test
+Print :: x1 4
+Print :: o1 4
+
+before line 25: object aX and aXX are diffrent instances
+Line 25
+aX and aXX now refer to the same instance of object,of that of aXX
+Call the methodX2 for object aX passing 3
+static var X1 = 3
+o1 = 3
+Print :: methodX2: test@memoryaddress of object instace of class test
+Print :: x1 3
+Print :: o1 3
+
+Line 26
+Call the methodX2 for object aXX passing 4
+static var X1 = 4
+o1 = 4
+Print :: methodX2: test@memoryaddress of object instace of class test
+Print :: x1 4
+Print :: o1 4
+

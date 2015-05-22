@@ -1,0 +1,22 @@
+//#include"Solver.h"
+#include"Clock.h"
+#include"Puzzle.h"
+#include"Slider.h"
+
+using namespace std;
+void test(int *ptr)
+{
+	cout << *ptr++ << endl;
+	cout << *ptr++ << endl;
+	cout << *ptr++ << endl;
+}
+
+int main(int argc, char* argv[])
+{
+	Puzzle<vector<vector<char>>, vector<vector<char>>>  puzzle;
+		puzzle.BFS();
+
+
+	cin.get();
+	return 0;
+}

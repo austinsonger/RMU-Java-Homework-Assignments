@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=desig\ id\ dates\ descript
+comment0.target=Record(java.lang.String,\ int,\ Date[],\ java.lang.String[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Record\r\n
+comment1.params=
+comment1.target=void\ print()
+comment1.text=\r\n\ prints\ out\ what\ is\ contained\ in\ the\ Record\ object\r\n
+comment2.params=
+comment2.target=int\ varCount()
+comment2.text=\r\n\ returns\ how\ many\ variables\ are\ used\ in\ the\ object\r\n
+comment3.params=
+comment3.target=void\ addTreatment()
+comment3.text=\r\n\ when\ needed,\ will\ add\ another\ treatment\ time\ to\ the\ array\ of\ previous\ treatment\ dates\r\n\ will\ also\ prompt\ user\ to\ enter\ a\ description\ of\ the\ treatment.\r\n\ the\ array\ of\ descriptions\ will\ never\ exceed\ the\ array\ of\ times.\r\n
+numComments=4
