@@ -1,6 +1,3 @@
-/*
- Name: John Tan
- Course: CIS 4110, Section LMSA
  Programming Assignment #4: Conditions
  Description: Incrementment (add 1) a variable called x 10 times (Note: Start x at 0). Then multiple it by 2 ten times (using a diffeerent loop statement). Then subtract 5 ten times (also using a different loop). Then output the final answer will be 10190.
  */
